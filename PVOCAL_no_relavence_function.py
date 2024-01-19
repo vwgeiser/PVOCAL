@@ -1,22 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Dec 26 22:08:41 2023
-
-@author: vwgei
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Thu Jul 27 13:12:48 2023
 
-This is the main python file for the PVOCAL model. 
 
-This file has several features: 
-    1) Possible prediction of all VOCs in inital spreadshee (8 main variables listed)
-    2) Prediction of VOC concentrations using both 0 hour and -24 hour trajectory locations
-    3) Ability to do average error metric over any number of model runs
-    4) Calculate feature importances for input features
-    5) Can plot the resulting decision tree (currently commented out see "tree plotting" section)
 
 @author: Victor Geiser
 """
