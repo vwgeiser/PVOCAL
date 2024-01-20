@@ -52,7 +52,9 @@ Predtions of 100+ VOCs are possible with the given .csv file.
 
 ## Contributing
 
-Given the difference in spatial resolutions between the 1 x 1 degree grids and the discrete sample locations of whole air samples. As it stands right now there is presumably a data leakage between the training and testing sets with the current standard random sklearn splitting algorithm.
+Given the difference in spatial resolutions between the 1 x 1 degree grids and the discrete sample locations of whole air samples. As it stands right now there is presumably a data leakage between the training and testing sets with the current standard random sklearn splitting algorithm. However, since using model data for preditions is a goal of this project, this question remains unanswered. 
+  - Testing the primary workflow for HRRR and NAM model data within HYSPLIT is currently in progress!
+  - And while no script exists, once a converstion script from NETCDF to Air Resources Laboratory format is developed, the ERA-5 dataset presents an attractive source of high-resolution meteorology data for use in this model
 
 Main contributions include making the model compatibe with all VOCs in the spreadsheet and adapting code so that this process is more streamlined. 
 
