@@ -1,4 +1,4 @@
-# PVOCAL (Predictions of Volitile Organic Compounds in the atmosphere using machine Learning) Model
+# PVOCAL (Predictions of Volitile Organic Compounds in the Atmosphere using machine Learning) Model
 
 Hello everyone from AMS!
 
