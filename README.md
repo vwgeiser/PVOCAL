@@ -6,6 +6,9 @@ This model was initially created as Victor Geiser's final project for the 2023 w
 
 If you are a NASA SARP intern and are interested in working and expanding upon this model within the context of SARP please message me on GitHub and I'd be happy to explain elements of this model in detail!
 
+COMING SOON: Instructions and workflow description of using global ERA5 Meteorology data with (0.25x0.25 degree) resolution with code.
+COMING SOON: Use of NASA ATom data (2016-2018) - This will allow for global coverage as opposed to haveing samples just over Southern California.
+
 ## Table of Contents
 
 - [About](#about)
