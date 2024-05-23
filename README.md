@@ -1,5 +1,9 @@
 # PVOCAL (Predictions of Volitile Organic Compounds in the Atmosphere using machine Learning) Model
 
+### This project is an archive'd version of the more recent PASTEL project. Please see the new project's page for more details: https://github.com/vwgeiser/PASTEL/tree/main
+
+>This project acts as the proof of concept for the newer PASTEL project and exists as a reminder of our starting point. Improvement begins with recognition.
+
 Hello everyone from AMS!
 
 This model was initially created as Victor Geiser's final project for the 2023 west cohort of the NASA Student Airborne Research Program. This program is an 8 week research internship where students are able to participate dircetly in NASA Airborne Science and do hands on reseach at the University of California Irvine. 
